@@ -1,0 +1,136 @@
+{
+    "Header": {
+
+        "title": "We are a Landing Page",
+        "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+
+    },
+    "About": {
+        "paragraph": "To create simple tools for the identification and registration of every pet in the world to solve issues with lost and homeless pets, illegal puppy trade, and improve pets' care.We are going to become the main voice of animal rights and raise the standards of treatment toward our four-legged friends to a higher level. We work hard to provide you with the best services to help keep your pets safe and healthy.",
+        "Why": [
+            "Security",
+            "Easy to use",
+            "Reliable",
+            "Free regitration"
+        ],
+        "Why2": [
+            "Aliquip ex ea commodo",
+            "Lorem ipsum dolor",
+            "Exercitation ullamco",
+            "Lorem ipsum dolor"
+        ]
+    },
+    "Services": [{
+            "icon": "fa fa-paw",
+            "name": "Pet's Medical History",
+            "text": "It's common to forget illnesses that our pets had, or forget the medecines that they took, or the vaccines he did and when. Petoo provides a secure platform where you can save ll your pet medical history"
+        },
+        {
+            "icon": "fa fa-users",
+            "name": "Veterinaries",
+            "text": "In Tunisia, finding the contact of a local vet is'nt easy. Find in Petoo a reliable contact list a veterinaries across the contry within a click"
+        },
+        {
+            "icon": "fa fa-calendar",
+            "name": "Appointment",
+            "text": "Going through the procees of calling of vet and booking an appointment is annoying at time, use Petoo to book your your pets appointment online anytime , anywhere"
+        },
+        {
+            "icon": "fa fa-shopping-cart",
+            "name": "Pet Store",
+            "text": "finding a good pet store ois challenging at times. With Petoo acces to diffrent pet store, where you can purshase your pets necessities, with home delivery."
+        },
+        {
+            "icon": "fa fa-book",
+            "name": "Blog",
+            "text": "It's hard to take care of our pets, sometimes we get lost. Petoo privides a blog with daily new content of tips and tricks for providing the best life for your pet"
+        },
+        {
+            "icon": "fa fa-camera-retro",
+            "name": "Gallerey",
+            "text": "we love our pats and take daily pictures of them for souvenirs. Petoo provides you with an online gallery where yu can save all your pets photos and save space on your phone"
+        }
+
+
+    ],
+    "Testimonials": [{
+            "img": "img/testimonials/01.jpg",
+            "text": "\"I used to loose my pets' paper medical history book all the time, as i'm a bit messy. now a have an online platform where i can save everythings.\"",
+            "name": "John Doe"
+        },
+        {
+            "img": "img/testimonials/02.jpg",
+            "text": "\"forgetting all pet's papers at home is smth i constantly do whenever i take him to a vet appointment. with petoo i have all his medical history online i can access it any time, even the vet can check it online directly. \"",
+            "name": "Salem Djou"
+        },
+        {
+            "img": "img/testimonials/03.jpg",
+            "text": "\" i hate shopping. it's very very nice to have an online store with diffrent pet shops.\"",
+            "name": "Ahmed helmi"
+        },
+        {
+            "img": "img/testimonials/04.jpg",
+            "text": "\"i useed to go to this very expensive vet a year go just because i didn't have any other option. Finally i have a access to a large vet contact list.\"",
+            "name": "Salma Aouicha"
+        },
+        {
+            "img": "img/testimonials/05.jpg",
+            "text": "\"i Had my first pet a year , and taking care og him was harder than i expected. at least i have daily short tips and tricks from Petoo to help me\"",
+            "name": "John Doe"
+        },
+        {
+            "img": "img/testimonials/06.jpg",
+            "text": "\"My husband and i have about 5 pets. They're like our children and it's important to us to give the the best life. Having Petoo have been a great help!\"",
+            "name": "Johnathan Doe"
+        }
+    ],
+    "Team": [{
+            "img": "img/team/01.jpg",
+            "name": "Hazem Housseini",
+            "job": " "
+        },
+        {
+            "img": "img/team/02.jpg",
+            "name": "Mohamed Ali Touil",
+            "job": " "
+        }, {
+            "img": "img/team/03.jpg",
+            "name": "Samy Sghaeir",
+            "job": " "
+        },
+        {
+            "img": "img/team/04.jpg",
+            "name": "Abir Ben sAid",
+            "job": " "
+        }
+    ],
+    "Contact": {
+        "address": "4321 California St, San Francisco, CA 12345 ",
+        "phone": "+1 123 456 1234",
+        "email": "info@company.com",
+        "facebook": "fb.com",
+        "twitter": "twitter.com",
+        "youtube": "youtube.com"
+    },
+    "Features": [{
+            "icon": "fa fa-comments-o",
+            "title": "Your Pet's Gallery",
+            "text": "Upload all your pets photo online and keep space on your phone, and well as the abilty to access them anytime and anywhere!:"
+        },
+        {
+            "icon": "fa fa-group",
+            "title": "Veterinary data base",
+            "text": "Get access to a reliable veterinary list in a click."
+        },
+        {
+            "icon": "fa fa-bullhorn",
+            "title": "Book your vet appointment",
+            "text": "your can book an appointment for your pet online!"
+        },
+        {
+            "icon": "fa fa-magic",
+            "title": "Online pet store",
+            "text": "Get all your pet necessities with few clicks."
+        }
+    ]
+}
